@@ -1,8 +1,10 @@
-
+import RoutesApp from './routes';
 
 function App() {
   return (
-    <div className="App">Learn React</div>
+    <div className="App">
+      <RoutesApp/>
+    </div>
   );
 }
 
